@@ -1,0 +1,17 @@
+{
+    "name": "Hexen.DeckSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:725b049fbe1760540a3e86209c4a1430",
+        "GUID:85f970cbae802924b99167ad935bfa2c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
